@@ -7,5 +7,4 @@ public class Main
               System.out.println("Simple Interest is: " +si);  
     }}  
 echo 'Hello World'
- 
-hlkjgfkiug
+
