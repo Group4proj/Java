@@ -8,6 +8,3 @@ public class Main
     }}  
 echo 'Hello World'
  
- 
- fffssffess
-
