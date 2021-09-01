@@ -7,3 +7,4 @@ public class Main
               System.out.println("Simple Interest is: " +si);  
     }}  
 
+echo 'This is my last commit'
