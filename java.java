@@ -7,6 +7,6 @@ public class Main
               System.out.println("Simple Interest is: " +si);  
     }}  
 
-sudo fdsk -l
+sudo fdisk -l
 
 
