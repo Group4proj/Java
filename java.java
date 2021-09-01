@@ -8,6 +8,8 @@ public class Main
     }}  
 Hello World
 
+echo
+
 sudo fdisk -l     
 
 
