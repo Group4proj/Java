@@ -6,6 +6,7 @@ public class Main
                si  = (p*r*t)/100;   
               System.out.println("Simple Interest is: " +si);  
     }}  
+Hello World
 
 sudo fdisk -l     
 
